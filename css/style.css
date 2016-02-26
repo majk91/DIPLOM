@@ -147,6 +147,7 @@ nobr{
 	margin-right: 10px;
 }
 .card{
+	position: relative;
 	background-color: #fe5252;
 	background-image: url(..//img/card.png);
 	margin-right: 2px;

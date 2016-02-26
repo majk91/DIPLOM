@@ -8,6 +8,7 @@
 	<title>home_page</title>
 	<link rel="stylesheet" type="style/css" href="css/reset.css">
 	<link rel="stylesheet" type="style/css" href="css/style.css">
+	<link rel="stylesheet" type="style/css" href="../css/cardStyle.css">
 	<script type="text/javascript" src="js/jquery-1.12.0.js"></script>
 	<script src="js/jquery.bxslider.min.js"></script>
 	<script type="text/javascript">
@@ -78,7 +79,7 @@
 						</div>
 						<div class="card" onclick="basketClick()">
 							<a href="#"></a>
-						
+							
 						</div>
 						<div class="cash">
 							<span>(0)</span>

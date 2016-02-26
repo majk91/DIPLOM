@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>home_page</title>
+	<link rel="stylesheet" type="style/css" href="css/reset.css">
 	<link rel="stylesheet" type="style/css" href="../css/style.css">
 	<link rel="stylesheet" type="style/css" href="../css/cardStyle.css">
 </head>

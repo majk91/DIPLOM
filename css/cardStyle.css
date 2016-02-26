@@ -1,0 +1,62 @@
+.card_wrap{
+	display: inline-block;
+	border-top: 3px solid #fe5252;
+	width: 290px;
+	background: #ffffff;
+	box-shadow: 10px 10px 15px rgba(217, 209, 201,0.5)
+	}
+.card_content{
+	margin: 0 auto;
+	position: relative;
+	width: 264px;
+}
+.card_content:after{
+	position: absolute;
+	top:10px;
+	left: 10px;
+	border-bottom: 6px solid #fe5252;
+}
+.card_content>div{
+	width: 264px;
+	display: inline-block;
+}
+.item_add{
+	border-bottom: 1px solid #e7e7e7;
+}
+.item_add_sum{
+	display: inline-block;
+	margin: 8.5px 50px;
+	font-size: 11px;
+}
+.card_total_sum{
+	display: inline-block;
+    margin: 8.5px 50px;
+}
+#view_card_form{
+	float:left;
+}
+.card_buttons{
+	margin-top: 8.5px;
+}
+#checkout_form{
+	float:right;
+}
+.view_card_button{
+	color:#fbeded;
+	height: 31px;
+	border-radius: 5px;
+	background: #cecece;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
+	border:0;
+	font-size: 13px;
+}
+.checkout_button{
+	height: 31px;
+	float: right;
+	color:#fbeded;
+	border-radius: 5px;
+	background: #fe6e6e;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
+	border:0;
+	font-size: 13px;
+}

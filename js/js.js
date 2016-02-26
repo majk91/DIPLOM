@@ -1,3 +1,3 @@
 function basketClick () {
-	alert ('Нажми меня');
+	return ('Нажми меня');
 }

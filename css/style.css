@@ -2,7 +2,7 @@
     font-family: src: url(..//fonts/DroidSans.ttf), 
     src: url(..//fonts/DroidSans-Bold.ttf);
    }
- html, body {
+ html, body, button {
     font-family: DroidSans, DroidSans-Bold, Arial, Helvetica, FreeSans, "Liberation Sans", "Nimbus Sans L", sans-serif;
     font-size: 12px;
     color: #666666;
